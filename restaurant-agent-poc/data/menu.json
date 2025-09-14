@@ -1,0 +1,259 @@
+{
+  "restaurant": "Pappu Pizza & Co.",
+  "currency": "INR",
+  "items": [
+    {
+      "id": "margherita_s",
+      "name": "Margherita",
+      "category": "Pizza",
+      "tags": [
+        "veg"
+      ],
+      "price": 249,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "addons": [
+        {
+          "name": "Extra Cheese",
+          "price": 40
+        },
+        {
+          "name": "Olives",
+          "price": 30
+        }
+      ],
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "basil"
+      ],
+      "is_available": true,
+      "spice_level": 0
+    },
+    {
+      "id": "farmhouse_m",
+      "name": "Farmhouse",
+      "category": "Pizza",
+      "tags": [
+        "veg"
+      ],
+      "price": 319,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "addons": [
+        {
+          "name": "Jalapenos",
+          "price": 30
+        },
+        {
+          "name": "Paneer",
+          "price": 50
+        }
+      ],
+      "ingredients": [
+        "onion",
+        "capsicum",
+        "tomato",
+        "mushroom"
+      ],
+      "is_available": true,
+      "spice_level": 1
+    },
+    {
+      "id": "pepperoni_m",
+      "name": "Pepperoni",
+      "category": "Pizza",
+      "tags": [
+        "nonveg"
+      ],
+      "price": 369,
+      "variants": [
+        {
+          "name": "Size",
+          "options": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "addons": [
+        {
+          "name": "Extra Cheese",
+          "price": 40
+        }
+      ],
+      "ingredients": [
+        "pepperoni",
+        "mozzarella",
+        "tomato"
+      ],
+      "is_available": true,
+      "spice_level": 1
+    },
+    {
+      "id": "veg_delight_bowl",
+      "name": "Veg Delight Bowl",
+      "category": "Bowl",
+      "tags": [
+        "veg",
+        "gluten_free"
+      ],
+      "price": 229,
+      "variants": [],
+      "addons": [
+        {
+          "name": "Avocado",
+          "price": 60
+        }
+      ],
+      "ingredients": [
+        "rice",
+        "beans",
+        "corn",
+        "salsa"
+      ],
+      "is_available": true,
+      "spice_level": 1
+    },
+    {
+      "id": "chicken_burrito",
+      "name": "Chicken Burrito",
+      "category": "Wrap",
+      "tags": [
+        "nonveg"
+      ],
+      "price": 279,
+      "variants": [],
+      "addons": [
+        {
+          "name": "Sour Cream",
+          "price": 30
+        }
+      ],
+      "ingredients": [
+        "chicken",
+        "rice",
+        "beans",
+        "cheese"
+      ],
+      "is_available": true,
+      "spice_level": 2
+    },
+    {
+      "id": "paneer_tikka_wrap",
+      "name": "Paneer Tikka Wrap",
+      "category": "Wrap",
+      "tags": [
+        "veg"
+      ],
+      "price": 259,
+      "variants": [],
+      "addons": [
+        {
+          "name": "Mint Mayo",
+          "price": 20
+        }
+      ],
+      "ingredients": [
+        "paneer",
+        "onion",
+        "capsicum"
+      ],
+      "is_available": true,
+      "spice_level": 2
+    },
+    {
+      "id": "garlic_bread",
+      "name": "Garlic Bread",
+      "category": "Sides",
+      "tags": [
+        "veg"
+      ],
+      "price": 129,
+      "variants": [],
+      "addons": [
+        {
+          "name": "Cheese Dip",
+          "price": 25
+        }
+      ],
+      "ingredients": [
+        "bread",
+        "garlic",
+        "butter"
+      ],
+      "is_available": true,
+      "spice_level": 0
+    },
+    {
+      "id": "choco_lava",
+      "name": "Choco Lava Cake",
+      "category": "Dessert",
+      "tags": [
+        "veg"
+      ],
+      "price": 139,
+      "variants": [],
+      "addons": [],
+      "ingredients": [
+        "chocolate",
+        "flour",
+        "sugar"
+      ],
+      "is_available": true,
+      "spice_level": 0
+    },
+    {
+      "id": "masala_cola",
+      "name": "Masala Cola",
+      "category": "Beverage",
+      "tags": [
+        "veg"
+      ],
+      "price": 69,
+      "variants": [],
+      "addons": [],
+      "ingredients": [
+        "cola",
+        "masala"
+      ],
+      "is_available": true,
+      "spice_level": 1
+    },
+    {
+      "id": "lemon_ice_tea",
+      "name": "Lemon Ice Tea",
+      "category": "Beverage",
+      "tags": [
+        "veg"
+      ],
+      "price": 89,
+      "variants": [],
+      "addons": [],
+      "ingredients": [
+        "tea",
+        "lemon",
+        "sugar"
+      ],
+      "is_available": true,
+      "spice_level": 0
+    }
+  ]
+}

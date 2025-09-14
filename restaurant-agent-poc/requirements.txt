@@ -1,0 +1,22 @@
+# FastMCP for MCP servers/clients over HTTP (stable)
+fastmcp>=0.3.0
+
+# FastAPI + Uvicorn (to run MCP serves)
+fastapi>=0.115.0
+uvicorn>=0.32.0
+
+# LangGraph + LangChain (agent framework)
+langgraph>=0.2.0
+langchain>=0.2.14
+langchain-anthropic>=0.1.9
+
+# Anthropic/OpenAI SDKs
+anthropic>=0.25.0
+openai>=1.36.0
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.7.1
+requests>=2.32.3
+numpy>=1.26.4
+faiss-cpu>=1.8.0
